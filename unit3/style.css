@@ -5,11 +5,12 @@ body {
   background-size: auto, cover;
   background-color: #51586c;
   font-family: "Myriad Pro", Arial, sans-serif; 
- 
 }
+
 section {
   margin:300px 0 0 200px;
 }
+
 hr {
   margin:0;
   width: 50px;
@@ -19,8 +20,7 @@ hr {
 p {
   font-size: 20px;
   font-weight: inherit;
-  color: white;
-  
+  color: white;  
 }
   
 
