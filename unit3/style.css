@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  background-image: url("images/background.jpg");
+  background-size: auto;
+  background-color: #51586c;
+  background-position: center;
+  font-family: "Myriad Pro", Arial, sans-serif; 
+ 
+}
+
+hr {
+  text-align: left;
+  width: 50px;
+  color: #915462;
+}
+
+p {
+  font-size: 16px;
+  font-weight: inherit;
+  font-color: white;
+  
+}
+  
+
+
