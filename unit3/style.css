@@ -1,24 +1,26 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-  background-image: url("images/background.jpg");
-  background-size: auto;
+  background: url("images/stripes.png") repeat-x, url("images/background.jpg") no-repeat;
+  background-size: auto, cover;
   background-color: #51586c;
-  background-position: center;
   font-family: "Myriad Pro", Arial, sans-serif; 
  
 }
-
+section {
+  margin:300px 0 0 200px;
+}
+}
 hr {
-  text-align: left;
+  margin:0;
   width: 50px;
-  color: #915462;
+  border-color: #915462;
 }
 
 p {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: inherit;
-  font-color: white;
+  color: white;
   
 }
   
