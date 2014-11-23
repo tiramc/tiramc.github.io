@@ -5,12 +5,18 @@ margin:0; padding:0; box-sizing:border-box;
 }
 
 body { 
-  background: url("images/restaurant_image.jpg") no-repeat; 
+  background: url("images/restaurant_image_1920.jpg") no-repeat; 
   background-size: cover;
 }
 
+.logo {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+}
+
 .page {
-  margin: 0 auto;
+  margin: 350px 0 0 400px;
   background: rgba(170, 187, 97, 0.2);  
   width:1200px;
 }
@@ -37,8 +43,7 @@ p {
 footer {
 	font-size: 12px;
 	line-height: 16px;
-	clear: both;
-	padding-top: 60px;
+	padding-top: 100px;
 	color: white;
 }
 
