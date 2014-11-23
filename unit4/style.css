@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+* { 
+margin:0; padding:0; box-sizing:border-box; 
+}
+
+html { 
+  background: url("images/restaurant_image.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.page {
+  margin: 200px 0 0 400px;
+  background: rgba(170, 187, 97, 0.2);  
+  float: center;
+}
+
+h1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 44px;
+  color: white;
+  padding: 0 0 5px 0;
+}
+
+p {
+  font-family: 'Century Schoolbook', serif;
+  font-size: 26px;
+  line-height: 26px;
+  letter-spacing: normal;
+  font-weight: inherit;
+  font-style: italic;
+  color: white; 
+  padding: 0 0 15px 0; 
+  width: 50%;
+}
+
+footer {
+	font-size: 12px;
+	line-height: 16px;
+	clear: both;
+	padding-top: 60px;
+	color: white;
+}
+
+  
+
+
