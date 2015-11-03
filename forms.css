@@ -1,0 +1,64 @@
+input[type=submit]{
+border: 2px solid gray; 
+background: darkblue;
+}
+
+#reset {
+    background: green;
+}
+
+#logo {
+    float: left;
+    margin: 10px;
+}
+
+.left {
+    float: left;
+    clear: none;
+    width: 25%;
+    padding-top: 150px;
+    margin: 10px;
+    height: 1000px;
+    }
+
+.right {
+    float: right;
+    clear: none;
+    width: 25%;
+    padding-top: 150px;
+    margin: 10px;
+    height: 1000px;
+}
+
+.content {
+    padding-top: 75px;
+}
+
+li {
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+header {
+    font-family: 'Helevetica', 'Arial';
+    font-size: 42pt;
+    color: darkmagenta;
+    text-align: center;
+    width: 100%;
+    padding-top: 50px;
+   
+}
+
+input[type=text], input[type=password] {
+    padding: 5px;
+    font-size: 15px;
+    
+}
+
+footer {
+    text-align: center;
+    font-size: 10pt;
+    padding-top: 100px;
+    font-family: 'Times New Roman'
+}
+    
